@@ -1,0 +1,24 @@
+# Olga Beller — Schwimmcoach & Coach für Persönlichkeitsentwicklung
+
+> Individuelles 1:1 Schwimmcoaching, Wasserlage- & Technikanalyse sowie Coaching für Persönlichkeitsentwicklung mit Olga Beller.
+
+## Über Olga Beller
+- **Hauptfokus:** Schwimmcoach (1:1 Technik- & Wasserlage-Coaching, Erwachsene & Wassersicherheit, Leistungsschwimmen & Triathlon)
+- **Zusatzqualifikation:** Coach für Persönlichkeitsentwicklung (Mindset, intrinsische Motivation, mentale Stärke im Sport)
+- **Sportlicher Werdegang:**
+  - Teilzeitinternat am Olympiastützpunkt Heidelberg
+  - Mitglied im deutschen Kader
+  - Wettkampfpraxis u. a. beim SV Nikar Heidelberg sowie bei Deutschen Hochschulmeisterschaften
+  - Abgeschlossenes Hochschulstudium
+- **LinkedIn:** https://www.linkedin.com/in/olga-beller-476a40143/
+
+## Coaching-Angebot & Formate
+1. **1:1 Technik- & Wasserlage-Coaching:** Analyse und Korrektur von Körperhaltung, Wasserlage, Armzug und Atmung mit aktiver Demonstration im Wasser durch Olga Beller.
+2. **Swim & Mindset (Schwimm- & Persönlichkeitscoaching):** Kombination aus biomechanischem Schwimmtraining im Becken und mentaler Begleitung (Motivation, Umgang mit Leistungsdruck, persönliches Wachstum).
+3. **Erwachsene, Einsteiger & Wassersicherheit:** Geduldiger 1:1 Aufbau von Wassergefühl, Atmung und Kraultechnik ohne Zeitdruck.
+4. **Leistungsschwimmen, Masters & Triathlon:** Video- und Bewegungsanalyse, Ökonomie auf langen Strecken und Wettkampfvorbereitung.
+
+## Kontakt & Buchung
+- **Telefon & WhatsApp:** +41 79 000 00 00 (Platzhalter in `OLGA_CONFIG`)
+- **E-Mail:** olga@swimcoach-olga.ch (Platzhalter in `OLGA_CONFIG`)
+- **Sprachen:** Deutsch (`https://olga-swimcoach.ch/`) und Englisch (`https://olga-swimcoach.ch/?lang=en`)
